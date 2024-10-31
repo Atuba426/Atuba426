@@ -3,25 +3,26 @@ I'm Ayesha, a passionate coder and aspiring developer diving into the world of o
 Here's a bit more about me.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀**About Me**
--👩‍🎓 I'm currently learning the basics of **Web development** and programming.
--✨Actively enhancing my **JavaScript** skills and practising **Command-line** Tools.
--🎯Interested in open-source contribution and collabrating on web projects.
+👩‍🎓 I'm currently learning the basics of **Web development** and programming.
+✨Actively enhancing my **JavaScript** skills and practicing **Command-line** Tools.
+🎯Interested in open-source contribution and collabrating on web projects.
 
 ⭐**What I Enjoy**
--🎓Maths is my favourite subject!
--💻Building simple web pages and experimenting with CSS styles.
--📖Learning new languages including good English  skills and practising daily.
+🎓Maths is my favourite subject!
+💻Building simple web pages and experimenting with CSS styles.
+📖Learning new languages including good English  skills and practising daily.
 
 🛠**Tech Stacks**
--##Languages: HTML,CSS, JavaScript.
--##Tools: VS code, GitHub, and Terminl basics.
--##Currently Exploring: open-source projects on GitHub,JavaScript & Libraries.
+**Languages**: HTML,CSS, JavaScript.
+**Tools**: VS code, GitHub, and Terminl basics.
+**Currently Exploring**: open-source projects on GitHub,JavaScript & Libraries.
 
 📱**Connect With Me**
--Discord:
+**Discord**: ayeshaq_03999
 
 ✨**Fun Fact**
--I am on a journey to improve my English and enjoy daily language practice! 
+*I am on a journey to improve my English and enjoy daily language practice! 
+
 
 
 
