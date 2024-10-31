@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there!👋 Welcome to my GitHub Profile
+I'm Ayesha, a passionate coder and aspiring developer diving into the world of open-source and software development. Currently I'm focused on expanding my skills in **JavaScript**,**HTML**,**CSS** and getting comfortable with Terminal basics.
+Here's a bit more about me.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀##About Me
+-👩‍🎓 I'm currently learning the basics of **Web development** and programming.
+-✨Actively enhancing my **JavaScript** skills and practising **Command-line** Tools.
+-🎯Interested in open-source contribution and collabrating on web projects.
 
-<!--
-**Atuba426/Atuba426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐##What I Enjoy
+-🎓Maths is my favourite subject!
+-💻Building simple web pages and experimenting with CSS styles.
+-📖Learning new languages including good English  skills and practising daily.
 
-Here are some ideas to get you started:
+🛠##Tech Stacks
+-##Languages: HTML,CSS, JavaScript.
+-##Tools: VS code, GitHub, and Terminl basics.
+-##Currently Exploring: open-source projects on GitHub,JavaScript & Libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱##Connect With Me
+-Discord:
+
+✨##Fun Fact
+-I am on a journey to improve my English and enjoy daily language practice! 
+
+
+
+
+
+
